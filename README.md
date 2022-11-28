@@ -7,7 +7,7 @@ The work was divided into two parts
 1. [Keystream decryption] (https://github.com/reecdeep/HiveV5_keystream_decryptor)
 2. File decryption using the decrypted keystream
 
-I would like to thank the great [@rivitna](https://twitter.com/rivitna2) for the support, dialogue and advice of these months of work!
+I would like to thank the great [@rivitna](https://twitter.com/rivitna2) for the support, dialogue and advices of these months of work!
 Please take note of [rivitna's github](https://github.com/rivitna) full of useful information about Hive ransomware and more.
 
 In this readme you will find some information about the file decryption algorithm, referring you to the PoC for a more complete picture of how it works.
