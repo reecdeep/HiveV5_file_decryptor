@@ -8,7 +8,7 @@ The work was divided into two parts
 2. File decryption using the decrypted keystream
 
 I would like to thank the great [@rivitna](https://twitter.com/rivitna2) for the support, dialogue and advices of these months of work!
-Please take note of [rivitna's github](https://github.com/rivitna) full of useful information about Hive ransomware and more.
+Please take note of [rivitna's github](https://github.com/rivitna) full of useful informations about Hive ransomware and more.
 
 In this readme you will find some information about the file decryption algorithm, referring you to the PoC for a more complete picture of how it works.
 A keystream is an encrypted cleartext. A cleartext is a set of 0xA00000 bytes to which the first 0x2FFF00 bytes have been appended, for a total of 0xCFFF00 bytes. These bytes were created with the weak algorithm already discussed in the first part released in July 2022.
