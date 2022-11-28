@@ -4,7 +4,7 @@
 
 The work done in the last few months has been necessary to reveal the malicious file encryption mechanism of Hive v5-5.2.
 The work was divided into two parts
-1. [Keystream decryption] (https://github.com/reecdeep/HiveV5_keystream_decryptor)
+1. [Keystream decryption](https://github.com/reecdeep/HiveV5_keystream_decryptor)
 2. File decryption using the decrypted keystream
 
 I would like to thank the great [@rivitna](https://twitter.com/rivitna2) for the support, dialogue and advices of these months of work!
