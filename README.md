@@ -13,6 +13,7 @@ Please take note of [rivitna's github](https://github.com/rivitna) full of usefu
 In this readme you will find some information about the file decryption algorithm, referring you to the PoC for a more complete picture of how it works.
 A keystream is an encrypted cleartext. A cleartext is a set of 0xA00000 bytes to which the first 0x2FFF00 bytes have been appended, for a total of 0xCFFF00 bytes. These bytes were created with the weak algorithm already discussed in the first part released in July 2022.
 Here below is a example of cleartext:
+
 ![cleartext](https://user-images.githubusercontent.com/72123074/204250635-f96b579f-c19b-4c14-be15-157300e1633d.png)
 
 
